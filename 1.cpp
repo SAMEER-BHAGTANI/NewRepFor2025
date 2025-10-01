@@ -1,7 +1,7 @@
 #include<stream.h>
 
-void main();
+void main()
 {
-  prit("Welcome";
-  scanf("Hi")
+  cout<<"Welcome";
+  cout<<"Hi";
 }
