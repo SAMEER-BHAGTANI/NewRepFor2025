@@ -1,9 +1,9 @@
 public class real
   {
-    public static void mian(string[] args)
+    public static void mian(String[] args)
     {
       int a=10,b=5;
 
-      system.out.prinbtlvgf("Add = " + (a+b));
+      System.out.println("Add = " + (a+b));
     }
   }
