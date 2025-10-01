@@ -1,4 +1,4 @@
 a=10
 b=5
 
-printf("A + B = " + (a+b))
+print("A + B = ",(a+b))
