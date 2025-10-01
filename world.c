@@ -1,1 +1,6 @@
-printf("Welcome to World of C Language")
+#include<stdio.h>
+
+void main()
+{
+  printf("Welcome to World of C Language");
+}
